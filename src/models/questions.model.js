@@ -13,3 +13,4 @@ const getAllQuestions = () => {
 module.exports = {
   getAllQuestions,
 };
+
